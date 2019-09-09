@@ -43,4 +43,4 @@ with ease. Instead of manually writing loops, you can achieve the same results
 with fewer lines of code.
 
 ## Resources
-* [Ruby Docs](http://www.ruby-doc.org/core-2.1.2/)
+* [Ruby Docs](htt)p://www.ruby-doc.org/core-2.1.2/
